@@ -1,0 +1,8 @@
+1. Could you please create a dictionary which converts English Letters to morse code. Could you also include punctuation.
+2. Could you please write a function which encodes and decodes from English to morse code and vice versa.
+3. I would like to only have the first word of each sentence in the decoded output capitalized. Could you please write me a function which does that.
+4. Could you add the ability to play sound, pretending I already have two mp3 files to play the dot and the dash. Could you also add a pause when there is a space in the word.
+5. Could you write some unit tests using the pytest library.
+6. "Could you please write a piece of python code to create the 'dot' and 'dash' sounds for morse code?"
+7. "Can the pygame sound module play wav files?"
+8. "I've got some code from my morse code converter, but I run into a segmentation fault when I try to play morse code. Could you explain what is happening and how to fix it? My code is below: [code snippet]"
